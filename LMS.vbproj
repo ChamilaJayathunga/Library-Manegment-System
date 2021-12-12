@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{49D14E55-9766-49AB-B4FD-552263E03CC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>LMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>bkzJbZKc chkA CaH\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8257616BBADCA20E6C5AF42F6FC6C84687E65984</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>LMS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EditMember.Designer.vb">
+      <DependentUpon>EditMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteMember.Designer.vb">
+      <DependentUpon>DeleteMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBook.Designer.vb">
+      <DependentUpon>EditBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteBook.Designer.vb">
+      <DependentUpon>DeleteBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteAuthor.Designer.vb">
+      <DependentUpon>DeleteAuthor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteAuthor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPublisher.Designer.vb">
+      <DependentUpon>EditPublisher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditPublisher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletePublisher.Designer.vb">
+      <DependentUpon>DeletePublisher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeletePublisher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactUs.Designer.vb">
+      <DependentUpon>ContactUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documantation.Designer.vb">
+      <DependentUpon>Documantation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Documantation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Activate.Designer.vb">
+      <DependentUpon>Activate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Activate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update.Designer.vb">
+      <DependentUpon>Update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tutorial.Designer.vb">
+      <DependentUpon>Tutorial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tutorial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Organisation.Designer.vb">
+      <DependentUpon>Organisation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Organisation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.vb">
+      <DependentUpon>main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="member.Designer.vb">
+      <DependentUpon>member.vb</DependentUpon>
+    </Compile>
+    <Compile Include="member.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="book.Designer.vb">
+      <DependentUpon>book.vb</DependentUpon>
+    </Compile>
+    <Compile Include="book.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="borrow.Designer.vb">
+      <DependentUpon>borrow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="borrow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="publisher.Designer.vb">
+      <DependentUpon>publisher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="publisher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="author.Designer.vb">
+      <DependentUpon>author.vb</DependentUpon>
+    </Compile>
+    <Compile Include="author.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EditMember.resx">
+      <DependentUpon>EditMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteMember.resx">
+      <DependentUpon>DeleteMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBook.resx">
+      <DependentUpon>EditBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteBook.resx">
+      <DependentUpon>DeleteBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteAuthor.resx">
+      <DependentUpon>DeleteAuthor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPublisher.resx">
+      <DependentUpon>EditPublisher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletePublisher.resx">
+      <DependentUpon>DeletePublisher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactUs.resx">
+      <DependentUpon>ContactUs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documantation.resx">
+      <DependentUpon>Documantation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Activate.resx">
+      <DependentUpon>Activate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update.resx">
+      <DependentUpon>Update.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tutorial.resx">
+      <DependentUpon>Tutorial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Organisation.resx">
+      <DependentUpon>Organisation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="member.resx">
+      <DependentUpon>member.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="book.resx">
+      <DependentUpon>book.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="borrow.resx">
+      <DependentUpon>borrow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="publisher.resx">
+      <DependentUpon>publisher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="author.resx">
+      <DependentUpon>author.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="LibraryDataSet.xsc">
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LibraryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LibraryDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LibraryDataSet.xss">
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LMS_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Library.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_library-management-system-c-project2.png" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_dsc_91791.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_13998063851.png" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_c_kilpatrick2012-78611.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_Library5.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_c_kilpatrick2012-7861.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_library%281%291.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_imagesKNA0KKBR1.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_imagesQFHE192F.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_library-management-system-c-project1.png" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_dsc_9179.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_library%281%29.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_3029579-poster-p-1-3029579-who-needs-business-school-the-hidden-startup-resources-at-your-local-library.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_imagesKNA0KKBR.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_Library11.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_650_REL_graphic_568x233_workforcetools_0.png" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_1399806385.png" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_library.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_library-management-system-c-project.png" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_librarymanagementsystem-140129095912-phpapp01-thumbnail-4.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_library_lending.jpg" />
+    <None Include="Resources\C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved Images_Library1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
