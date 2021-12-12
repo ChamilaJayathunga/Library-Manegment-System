@@ -1,0 +1,111 @@
+C:\Users\Mihindu\documents\visual studio 2010\Projects\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Mihindu\documents\visual studio 2010\Projects\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Mihindu\documents\visual studio 2010\Projects\LMS\LMS\bin\Debug\LMS.xml
+C:\Users\Mihindu\documents\visual studio 2010\Projects\LMS\LMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mihindu\documents\visual studio 2010\Projects\LMS\LMS\obj\x86\Debug\LMS.vbproj.GenerateResource.Cache
+C:\Users\Mihindu\documents\visual studio 2010\Projects\LMS\LMS\obj\x86\Debug\LMS.exe
+C:\Users\Mihindu\documents\visual studio 2010\Projects\LMS\LMS\obj\x86\Debug\LMS.xml
+C:\Users\Mihindu\documents\visual studio 2010\Projects\LMS\LMS\obj\x86\Debug\LMS.pdb
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\bin\Debug\Library.mdb
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\obj\x86\Debug\WindowsApplication1.main.resources
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\obj\x86\Debug\WindowsApplication1.member.resources
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\obj\x86\Debug\WindowsApplication1.book.resources
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\obj\x86\Debug\WindowsApplication1.borrow.resources
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\obj\x86\Debug\WindowsApplication1.publisher.resources
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\obj\x86\Debug\WindowsApplication1.author.resources
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\bin\Debug\LMS.exe.manifest
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\bin\Debug\LMS.application
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\obj\x86\Debug\LMS.exe.manifest
+C:\Users\Mihindu\Documents\Visual Studio 2010\Projects\LMS\LMS\obj\x86\Debug\LMS.application
+E:\LMS\LMS\bin\Debug\LMS.exe.config
+E:\LMS\LMS\obj\x86\Debug\LMS.exe
+E:\LMS\LMS\obj\x86\Debug\LMS.xml
+E:\LMS\LMS\obj\x86\Debug\LMS.pdb
+E:\MY All Files\m vb\LMS\LMS\bin\Debug\LMS.exe.config
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\LMS.exe
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\LMS.xml
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\LMS.pdb
+E:\MY All Files\m vb\LMS\LMS\bin\Debug\Library.mdb
+E:\MY All Files\m vb\LMS\LMS\bin\Debug\LMS.exe.manifest
+E:\MY All Files\m vb\LMS\LMS\bin\Debug\LMS.application
+E:\MY All Files\m vb\LMS\LMS\bin\Debug\LMS.exe
+E:\MY All Files\m vb\LMS\LMS\bin\Debug\LMS.pdb
+E:\MY All Files\m vb\LMS\LMS\bin\Debug\LMS.xml
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\WindowsApplication1.main.resources
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\WindowsApplication1.member.resources
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\WindowsApplication1.book.resources
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\WindowsApplication1.borrow.resources
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\WindowsApplication1.publisher.resources
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\WindowsApplication1.author.resources
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\LMS.vbproj.GenerateResource.Cache
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\LMS.exe.manifest
+E:\MY All Files\m vb\LMS\LMS\obj\x86\Debug\LMS.application
+E:\MY All Files\LMS1\LMS\bin\Debug\LMS.exe.config
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\LMS.exe
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\LMS.xml
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\LMS.pdb
+E:\MY All Files\LMS1\LMS\bin\Debug\Library.mdb
+E:\MY All Files\LMS1\LMS\bin\Debug\LMS.exe.manifest
+E:\MY All Files\LMS1\LMS\bin\Debug\LMS.application
+E:\MY All Files\LMS1\LMS\bin\Debug\LMS.exe
+E:\MY All Files\LMS1\LMS\bin\Debug\LMS.pdb
+E:\MY All Files\LMS1\LMS\bin\Debug\LMS.xml
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.main.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.member.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.book.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.borrow.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.publisher.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.author.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\LMS.vbproj.GenerateResource.Cache
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\LMS.exe.manifest
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\LMS.application
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.EditMember.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.DeleteMember.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.EditBook.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.DeleteBook.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.DeleteAuthor.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.EditPublisher.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.DeletePublisher.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Organisation.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.About.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.ContactUs.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Documantation.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Tutorial.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Upgrad.resources
+E:\MY All Files\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Ac.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\bin\Debug\LMS.exe.config
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\LMS.exe
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\LMS.xml
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\LMS.pdb
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.EditMember.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.DeleteMember.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.EditBook.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.DeleteBook.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.DeleteAuthor.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.EditPublisher.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.DeletePublisher.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.About.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.ContactUs.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Documantation.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Ac.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Upgrad.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Tutorial.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Organisation.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.main.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.member.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.book.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.borrow.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.publisher.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.author.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\LMS.vbproj.GenerateResource.Cache
+E:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\bin\Debug\LMS.exe.config
+E:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\LMS.exe
+E:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\LMS.xml
+E:\ALL FILES\My Crations\vishual basic DBMS\LMS1\LMS\obj\x86\Debug\LMS.pdb
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\New folder\LMS11\LMS\bin\Debug\LMS.exe.config
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\New folder\LMS11\LMS\obj\x86\Debug\LMS.xml
+F:\ALL FILES\My Crations\vishual basic media players & DBMS\New folder\LMS11\LMS\obj\x86\Debug\LMS.pdb
